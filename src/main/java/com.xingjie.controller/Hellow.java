@@ -11,5 +11,7 @@ public class Hellow {
         System.out.printf("123");
 
         System.out.printf("小程序新车");
+
+        System.out.printf("sdsd");
     }
 }
